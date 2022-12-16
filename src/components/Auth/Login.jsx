@@ -79,7 +79,7 @@ function Login() {
     
       <div className="container login">
         <span className="row d-flex align-content-center justify-content-center ">
-          <span className="col-lg-4 col-md-6 col-sm-9 pt-5 ">
+          <span className="col-lg-4 col-md-6 col-sm-9  ">
          
             <div className="card o-hidden border-0 shadow-lg  mt-3 transp  d-flex align-content-center">
               <div className="card-body p-2">
@@ -154,6 +154,13 @@ function Login() {
                         </p>
                       </div>
                     
+                    </div>
+                    <div className="">
+                      Test credentials :
+                      <p>
+                        email: kirubaharan8878m@gmail.com
+                        password: 123456
+                      </p>
                     </div>
                   </div>
                 </div>
