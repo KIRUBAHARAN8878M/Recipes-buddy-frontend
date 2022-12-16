@@ -155,11 +155,11 @@ function Login() {
                       </div>
                     
                     </div>
-                    <div className="">
-                      Test credentials :
-                      <p>
-                        email: kirubaharan8878m@gmail.com
-                        password: 123456
+                    <div className="text-center ">
+                      <span className="text-success">Test credentials </span><hr/>
+                      <p className="text-center">
+                         kirubaharan8878m@gmail.com <br/>
+                            123456
                       </p>
                     </div>
                   </div>
