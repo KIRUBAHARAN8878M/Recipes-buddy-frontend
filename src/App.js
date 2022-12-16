@@ -7,9 +7,7 @@ import axios from "axios";
 
 import { env } from "./config";
 import Login from "./components/Auth/Login";
-
 import Register from "./components/Auth/Register";
-
 import Passwordreset from "./components/Auth/Passwordreset";
 import ResetPasswordPage from "./components/Auth/ResetPasswordPage";
 import Portal from "./components/portal/Portal";
