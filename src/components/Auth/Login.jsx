@@ -159,7 +159,7 @@ function Login() {
                       <span className="text-success">Test credentials </span><hr/>
                       <p className="text-center">
                          kirubaharan8878m@gmail.com <br/>
-                            123456
+                            User@1234
                       </p>
                     </div>
                   </div>
